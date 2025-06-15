@@ -20,6 +20,9 @@
     nav {
       background: #1e293b;
       padding: 10px 0;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
     }
 
     nav a {
