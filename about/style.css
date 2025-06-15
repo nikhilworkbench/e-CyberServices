@@ -18,15 +18,8 @@
     }
 
     nav {
-      background-color: #0a122a;
+      background: #1e293b;
       padding: 10px 0;
-    }
-
-    nav ul {
-      list-style: none;
-      display: flex;
-      justify-content: center;
-      gap: 30px;
     }
 
     nav a {
