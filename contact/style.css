@@ -83,10 +83,9 @@ form button:hover {
 }
 
 footer {
-  background-color: #0a122a;
-  color: #ccc;
-  text-align: center;
-  padding: 20px;
-  margin-top: 60px;
-  font-size: 14px;
+    background: #0f172a;
+    color: #ccc;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
 }
