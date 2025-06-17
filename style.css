@@ -31,6 +31,10 @@ nav a:hover {
     color: #38bdf8;
 }
 
+main {
+    min-height: 80vh;
+}
+
 .hero {
     text-align: center;
     padding: 60px 20px;

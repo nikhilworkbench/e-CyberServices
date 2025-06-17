@@ -31,6 +31,10 @@ nav a:hover {
   color: #38bdf8;
 }
 
+main {
+  min-height: 80vh;
+}
+
 .about-section {
   background-color: #e6f0fa;
   padding: 80px 20px;
